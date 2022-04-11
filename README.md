@@ -9,6 +9,7 @@ The manufacturing lots in total meet the requirements for the variance of suspen
 ### T-Test on Suspension Coils
 ![T.Test](/Images/T.Test_All.png)
 ![T.Test](/Images/T.Test_Lot3.png)
+![T.Test](/Images/Screen Shot%20%2022-04-10%20%at%20%10.09.02%20%PM.png)
 
 ### Study Design: MechaCar vs. Competition
 To test how MechaCar Performs against the competition, we should look at safety rating, maintence costs, engine size, fuel economy, and whether the car is 4wd/2wd/AWD. The null hypothesis is that there is no specifc metric to compare the overall quality of MechaCar to its competition. The alternate hypothesis is that MechaCar is higher quality than its competition based on safety rating, maintence costs, engine size, fuel economy, and whether the car is 4wd/2wd/AWD. I would use a T.Test for safety rating, engine size, maintenance costs, and fuel economy. For 4wd/2wd/AWD, I would use a chi-squared test.
