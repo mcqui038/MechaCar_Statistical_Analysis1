@@ -5,3 +5,9 @@ Ground Clearance is the only variable that provided a non-random amount of varia
 
 ### Summary Statistics on Suspension Coils
 The manufacturing lots in total meet the requirements for the variance of suspension coils as the variance is under 100 PSI. Based on idividual lots, only lot 1 and lot 2 meet the requirements for variance of suspension coils. Lot 3 exceeds the 100 PSI threshold for coil variance. 
+
+### T-Test on Suspension Coils
+
+
+### Study Design: MechaCar vs. Competition
+
